@@ -13,10 +13,6 @@ Batch rename files in any folder with optional prefixes, suffixes, and current d
 python file_renamer.py /path/to/folder --prefix IMG_ --suffix _done --date
 ```
 
-## Example
-**Before**: `pic1.jpg`, `pic2.jpg`  
-**After**: `IMG_20250603_1_done.jpg`, `IMG_20250603_2_done.jpg`
-
 ## 💡 Why
 Organize folders faster. Great for:
 - Screenshot management
@@ -26,4 +22,4 @@ Organize folders faster. Great for:
 ---
 
 🛒 Want more tools?  
-Check out [My Payhip Store](https://payhip.com/Liladizilla)
+Check out [My Payhip Store](https://payhip.com/KnowledgeHubz)
